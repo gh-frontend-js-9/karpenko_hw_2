@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6{
 .cookie-form{
     margin: 0;
     padding: 0;
-    background: url('/public/images/2-layers-2.png');
+    background: url('../images/2-layers-2.png');
 }
 .cookie-form .cookies-form-button{
     padding: .25rem .5rem;
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6{
 }
 /* header */
 header{
-    background: url('/public/images/2-layers-2.png');
+    background: url('../images/2-layers-2.png');
     background-size: cover;
 }
 header button.hire-me{
@@ -123,7 +123,7 @@ img.img-center{
 /* Footer */
 footer{
     padding: 1rem 0 !important;
-    background: url('/public/images/2-layers-2.png');
+    background: url('../images/2-layers-2.png');
     display: flex;
     justify-content: center;
     flex-flow: row nowrap;
