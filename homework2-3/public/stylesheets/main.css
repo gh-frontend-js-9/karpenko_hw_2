@@ -36,7 +36,7 @@ header .top-banner{
     padding: .5rem 0 .5rem 10%;
 }
 header .top-header{
-    background: url("/public/image/Image.png");
+    background: url("../image/Image.png");
     background-size: cover;
     text-align: center;
 }
